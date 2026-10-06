@@ -1,0 +1,42 @@
+[
+    {
+        "title": "AI Smart Tutor",
+        "category": "Artificial Intelligence",
+        "level": "Beginner",
+        "technologies": ["Python", "Streamlit", "Pandas"],
+        "duration": "2-3 weeks",
+        "description": "An AI-powered education dashboard that analyzes student performance and provides personalized learning suggestions."
+    },
+    {
+        "title": "PDF RAG Chatbot",
+        "category": "Generative AI",
+        "level": "Intermediate",
+        "technologies": ["Python", "Streamlit", "LangChain", "ChromaDB"],
+        "duration": "3-4 weeks",
+        "description": "A document question-answering application using retrieval augmented generation."
+    },
+    {
+        "title": "AI Resume Analyzer",
+        "category": "Artificial Intelligence",
+        "level": "Intermediate",
+        "technologies": ["Python", "Streamlit", "NLP", "Gemini"],
+        "duration": "2-3 weeks",
+        "description": "An application that analyzes resumes and provides skill and improvement recommendations."
+    },
+    {
+        "title": "Student Career Mentor",
+        "category": "Generative AI",
+        "level": "Advanced",
+        "technologies": ["Python", "Streamlit", "Gemini", "LangChain"],
+        "duration": "4-6 weeks",
+        "description": "An AI mentor that recommends career paths, projects, technologies and learning roadmaps."
+    },
+    {
+        "title": "AI Code Review Assistant",
+        "category": "Developer Tools",
+        "level": "Advanced",
+        "technologies": ["Python", "Streamlit", "Gemini"],
+        "duration": "3-5 weeks",
+        "description": "An AI assistant that analyzes source code and provides explanations and improvement suggestions."
+    }
+]

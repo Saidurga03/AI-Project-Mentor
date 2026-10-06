@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.txt
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS files
+Thumbs.db
+.DS_Store
